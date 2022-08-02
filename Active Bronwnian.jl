@@ -1,5 +1,5 @@
 using Distributions
-function update(;F = 0.0002, Ω = 3.14, m = 5.0, ζ = 0.1)
+function activeswim(;F = 0.0002, Ω = 3.14, m = 5.0, ζ = 0.1)
     R = 1e-6
     η = 0.001
     T = 300
