@@ -24,3 +24,6 @@ with:
 - $\Omega$ is the rotational velocity.
 - $\hat{n}$ is the unite radial vector.
 
+![activr](https://user-images.githubusercontent.com/100057270/182431478-9d7cd7fb-2c1c-432b-919b-f95494c2618b.png)
+
+***
