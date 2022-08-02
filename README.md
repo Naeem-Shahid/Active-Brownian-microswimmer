@@ -26,4 +26,8 @@ with:
 
 ![activr](https://user-images.githubusercontent.com/100057270/182431478-9d7cd7fb-2c1c-432b-919b-f95494c2618b.png)
 
+Animation is speedup.
+
+![active](https://user-images.githubusercontent.com/100057270/182473931-1094d72e-64f4-4bd4-904b-bffb049cc631.gif)
+
 ***
